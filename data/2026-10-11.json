@@ -1,0 +1,15 @@
+{
+  "title": "Demo example --- Chicken thighs with rice and broccoli",
+  "base": "rice",
+  "recipe": "Season the chicken with paprika and salt. Fry skin-side down in olive oil for 8 minutes, flip, and cook 10 more minutes.\nCook the rice. Steam the broccoli for 4 minutes and toss with garlic.\nServe everything together with a squeeze of lemon.",
+  "recipe_url": "",
+  "ingredients": [
+    { "name": "basmati rice", "name_nl": "basmatirijst", "quantity": "200 g", "notes": "", "group": "base" },
+    { "name": "chicken thighs", "name_nl": "kippendijen", "quantity": "500 g", "notes": "skin-on", "group": "meat" },
+    { "name": "broccoli", "name_nl": "broccoli", "quantity": "1 head", "notes": "", "group": "vegetables" },
+    { "name": "garlic", "name_nl": "knoflook", "quantity": "2 cloves", "notes": "", "group": "vegetables" },
+    { "name": "olive oil", "name_nl": "olijfolie", "quantity": "2 tbsp", "notes": "", "group": "other" },
+    { "name": "smoked paprika", "name_nl": "gerookte paprikapoeder", "quantity": "1 tsp", "notes": "", "group": "other" }
+  ],
+  "notes": "Very good. Next time add a bit more lemon."
+}
